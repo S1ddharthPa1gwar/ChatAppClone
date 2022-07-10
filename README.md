@@ -1,2 +1,2 @@
 # ChatAppClone
-Hands on Project to learn basis of  Nodejs and realtime  data transfer.
+Self learninig, hands on project to learn basics of real-time data transfer and concepts of JavaScript
